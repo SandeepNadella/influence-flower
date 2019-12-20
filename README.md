@@ -79,8 +79,7 @@
 ![Details on Demand Extension Construction](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/InfluenceFlowerExtension.png)
 *Details on Demand Extension Construction*
 
-![Find more images under the screenshots folder](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots)
-*Find more images under the screenshots folder*
+[Find more images under the screenshots folder](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots)
 
 ### Development Commands
 
