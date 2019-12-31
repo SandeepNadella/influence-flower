@@ -81,6 +81,35 @@
 
 [Find more images under the screenshots folder](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots)
 
+### Web application screenshots
+
+#### Movies
+
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.30.12%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.30.32%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.30.56%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.28.25%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.31.28%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.31.53%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.40.35%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.40.59%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.41.10%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.41.36%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.42.09%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.42.43%20PM.png)
+
+#### Property Listings
+
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.43.39%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.44.00%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.44.14%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.44.34%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.44.42%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.44.50%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.45.24%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.46.26%20PM.png)
+![](https://github.com/SandeepNadella/influence-flower/blob/master/screenshots/Screen%20Shot%202019-12-04%20at%2012.45.40%20PM.png)
+
 ### Development Commands
 
 ```bash
